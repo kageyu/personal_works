@@ -1,0 +1,19 @@
+SMAP
+PrimeNumbers_jsp.java
+JSP
+*S JSP
+*F
++ 0 PrimeNumbers.jsp
+WEB-INF/PrimeNumbers.jsp
+*L
+5,8:46
+12,17:54
+28,2:71
+29:73
+30,2:74,3
+32,2:80
+34,2:82,3
+36:88
+37,4:89,3
+41,3:101
+*E
